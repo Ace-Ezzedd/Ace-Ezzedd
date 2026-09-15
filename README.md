@@ -3,13 +3,13 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+Developer" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/collins-agetue/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+
   <a href="mailto:collinseziafa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -36,15 +36,15 @@ Outside of data analytics, I enjoy fitness, puzzle games, cooking, music and lea
       
 ## 🔭 What I'm Currently Working On 
 
-- **Insurance Risk and Claims Analysis Project:** [Building an Interactive Insurance risk and Claims Analysis Dashboard in PowerBI that answers the question: who is actually risky and why?.]  
-- **HR Analytics Project:** [Building an interactive Finance Analysis Dashboard in Power BI that analyzes financial performance data to uncover revenue, expense, and profitability trends to support budgeting and forecasting decisions.]
-- **Finance Analysis Project:** [Building an interactive HR analytics Dashboard in Power BI that explores employee data to surface attrition, performance, and workforce trends to support HR strategy and retention planning.]
+- **Insurance Risk and Claims Analysis Project:** Building an Interactive Insurance risk and Claims Analysis Dashboard in PowerBI that answers the question: who is actually risky and why?  
+- **HR Analytics Project:** Building an interactive Finance Analysis Dashboard in Power BI that analyzes financial performance data to uncover revenue, expense, and profitability trends to support budgeting and forecasting decisions.
+- **Finance Analysis Project:** Building an interactive HR analytics Dashboard in Power BI that explores employee data to surface attrition, performance, and workforce trends to support HR strategy and retention planning.
 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+-Python.
+-Cloud data warehousing with Google BigQuery.
 
 ## 🛠️ Technical Skillset
 
