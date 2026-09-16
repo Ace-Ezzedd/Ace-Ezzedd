@@ -22,9 +22,13 @@ My interests include:
 📊 Data Analysis & Visualisation: Uncovering trends, patterns, and performance insights
 
 📈 Power BI & Dashboard Development: Creating interactive dashboards and KPI reports
+
 🗄️ SQL & Data Preparation: Querying, cleaning, transforming, and validating data
+
 ⚙️ Reporting & Process Automation: Reducing repetitive manual tasks and improving efficiency
+
 💡 Business Intelligence: Connecting data insights to real business questions
+
 🤝 Stakeholder Collaboration: Translating business requirements into practical data solutions
 
 I enjoy taking messy datasets and turning them into clear stories that people can understand and act on. For me, the most rewarding part of analytics is finding that “aha!” moment hidden in the data.
