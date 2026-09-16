@@ -20,6 +20,7 @@ I work with SQL, Power BI, Excel, data visualisation, data cleaning, and busines
 My interests include:
 
 📊 Data Analysis & Visualisation: Uncovering trends, patterns, and performance insights
+
 📈 Power BI & Dashboard Development: Creating interactive dashboards and KPI reports
 🗄️ SQL & Data Preparation: Querying, cleaning, transforming, and validating data
 ⚙️ Reporting & Process Automation: Reducing repetitive manual tasks and improving efficiency
