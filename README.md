@@ -64,7 +64,7 @@ Outside of data analytics, I enjoy fitness, puzzle games, cooking, music and lea
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Beiginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
