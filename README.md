@@ -48,6 +48,7 @@ Outside of data analytics, I enjoy fitness, puzzle games, cooking, music and lea
 ## 🌱 Currently Learning 
 
 -Python.
+
 -Cloud data warehousing with Google BigQuery.
 
 ## 🛠️ Technical Skillset
