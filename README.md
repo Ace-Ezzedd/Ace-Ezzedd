@@ -36,7 +36,7 @@ I enjoy taking messy datasets and turning them into clear stories that people ca
 Outside of data analytics, I enjoy fitness, puzzle games, cooking, music and learning instrument.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://https://ace-ezzedd.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://https://ace-ezzedd.github.io)
       
 ## 🔭 What I'm Currently Working On 
 
